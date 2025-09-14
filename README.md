@@ -162,23 +162,22 @@ Response:
 
 ## 📸 Screenshots
 
-> Replace with your actual UI screenshots later.
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](https://github.com/CodeSpherreDev/TripMate-AI-Agent/blob/general/Screenshorts/image1.png)
 
 ### 💬 Chat Interface
 
-![Chat Interface](screenshots/chat.png)
+![Chat Interface](https://github.com/CodeSpherreDev/TripMate-AI-Agent/blob/general/Screenshorts/image2.png)
 
 ### 📍 Travel Recommendations
 
-![Travel Recommendations](screenshots/recommendations.png)
+![Travel Recommendations](https://github.com/CodeSpherreDev/TripMate-AI-Agent/blob/general/Screenshorts/image3.png)
 
 ### 📊 Budget Calculator
 
-![Budget Calculator](screenshots/budget.png)
+![Budget Calculator](https://github.com/CodeSpherreDev/TripMate-AI-Agent/blob/general/Screenshorts/image4.png)
 
 ---
 
