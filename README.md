@@ -58,19 +58,19 @@ TripMateAI offers a **chat-based AI travel assistant** that:
 
 2. Install dependencies:
 
-```bash
+   ```bash
    npm install
-```   
+   ```   
 
 # or
-```bash
+   ```bash
    yarn install
-```
+   ```
 3. Run the app:
 
-   ```bash
-   npm start
-   ```
+```bash
+npm start
+```
 
 ---
 
