@@ -180,6 +180,20 @@ Response:
 ![Budget Calculator](https://github.com/CodeSpherreDev/TripMate-AI-Agent/blob/general/Screenshorts/image4.png)
 
 ---
+## 🛠️ Application Flow  
+
+<div align="center">
+
+### 🌍 User Journey Flow-Chart  
+
+💡 *This diagram illustrates the navigation and functionality flow of **TripMate AI Agent***  
+
+![Flowchart – Home Page](https://github.com/CodeSpherreDev/TripMate-AI-Agent/blob/general/Screenshorts/TripMate%20AI%20Agent%20flowchart.png)
+
+</div>
+
+---
+
 
 ## 🔮 Future Updates
 
