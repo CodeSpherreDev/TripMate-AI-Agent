@@ -205,14 +205,15 @@ Response:
 
 ---
 
-## 👨‍💻 Team Code Sepherre
+## 👨‍💻 Developers  
 
-* **Shibam Dey Roy**
-* **Abhranil Dutta**
-* **Avijit Dey**
-* **Nabanita Saha**
+Meet the awesome minds behind **Team Code Sepherre** ✨  
 
----
+| Shibam Dey Roy | Abhranil Dutta | Avijit Dey | Nabanita Saha |
+|----------------|----------------|------------|---------------|
+| <a href="https://github.com/mrdeyroy"><img src="https://avatars.githubusercontent.com/mrdeyroy" width="120" height="120" style="border-radius:50%"></a> | <a href="https://github.com/Abhranil2004"><img src="https://avatars.githubusercontent.com/Abhranil2004" width="120" height="120" style="border-radius:50%"></a> | <a href="https://github.com/AvijitDey255"><img src="https://avatars.githubusercontent.com/AvijitDey255" width="120" height="120" style="border-radius:50%"></a> | <a href="https://github.com/VALKYRE312"><img src="https://avatars.githubusercontent.com/VALKYRE312" width="120" height="120" style="border-radius:50%"></a> |
+| [GitHub](https://github.com/mrdeyroy) | [GitHub](https://github.com/Abhranil2004) | [GitHub](https://github.com/AvijitDey255) | [GitHub](https://github.com/VALKYRE312) |
+
 
 ## 🙏 Acknowledgements
 
